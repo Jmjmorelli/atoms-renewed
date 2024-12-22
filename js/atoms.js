@@ -1,5 +1,5 @@
 var Atoms = function() {
-	this._board = new Board(6, 6);
+	this._board = new Board(8, 8);
 	this._audio = new Audio();
 	
 	this._players = [];
